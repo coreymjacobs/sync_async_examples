@@ -120,10 +120,6 @@ const myAsyncFunc3 = async() => {
 
 };
 
-//myAsyncFunc();
-//myAsyncFunc2();
-//myAsyncFunc3();
-
 console.log("end file");
 
 
