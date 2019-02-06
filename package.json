@@ -1,0 +1,30 @@
+{
+  "name": "sync_async_examples",
+  "version": "1.0.0",
+  "description": "examples for async await parallel and sequential functions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreymjacobs/sync_async_examples.git"
+  },
+  "keywords": [
+    "async",
+    "await"
+  ],
+  "author": "CoreyJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coreymjacobs/sync_async_examples/issues"
+  },
+  "homepage": "https://github.com/coreymjacobs/sync_async_examples#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
